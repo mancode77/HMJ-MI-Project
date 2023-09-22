@@ -7,8 +7,6 @@ Selamat datang di proyek web HMJ Manajemen Informatika! Proyek ini bertujuan unt
 Proyek ini bertujuan untuk:
 
 - Meningkatkan keterlibatan anggota HMJ dan calon anggota.
-- Menyediakan informasi terkini tentang acara, kegiatan, dan berita terkait HMJ Manajemen Informatika.
-- Menyediakan sumber daya seperti materi kuliah, jadwal, dan kontak dosen.
 - Memfasilitasi kolaborasi antara anggota HMJ dalam proyek-proyek berbasis IT.
 - Mempromosikan visi dan misi HMJ Manajemen Informatika kepada anggota dan masyarakat umum.
 
